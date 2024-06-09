@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.card_wrapper {
+  max-width: 1150px;
+  margin: 0 auto;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 25%;
+  padding-right: 30px;
+  margin-bottom: 40px;
+  justify-content: center;
+}
